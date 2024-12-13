@@ -5,7 +5,7 @@
 - [Android XR: The Gemini era comes to headsets and glasses](https://blog.google/products/android/android-xr/)
 ## Developer
 - [Introducing Android XR SDK Developer Preview](https://android-developers.googleblog.com/2024/12/introducing-android-xr-sdk-developer-preview.html)
-
+- [Qualcomm and Google collaborate to launch new Android XR platform](https://www.qualcomm.com/developer/blog/2024/12/qualcomm-google-collaborate-to-launch-android-xr-platform)
 # Documentation
 - [Android XR](https://developer.android.com/develop/xr/)
 
