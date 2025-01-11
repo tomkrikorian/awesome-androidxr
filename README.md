@@ -19,7 +19,8 @@
 - [Android XR Extensions for Unity](https://github.com/android/android-xr-unity-package)
 
 # Jetpack XR SDK
-## Samples
+## Official Samples
 - [XR Samples](https://github.com/android/xr-samples) Official Samples for Android XR 
 ## Projects
 - [XrPlayground](https://github.com/Kashif-E/XrPlayground) Android XR sdk playground, trying out AR camera, 3d Model viewer, apps and more.
+- [Android Template](https://github.com/michaelbel/android-template) A GitHub template for creating modern Android apps with support all targets
