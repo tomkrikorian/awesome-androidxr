@@ -23,4 +23,5 @@
 - [XR Samples](https://github.com/android/xr-samples) Official Samples for Android XR 
 ## Projects
 - [XrPlayground](https://github.com/Kashif-E/XrPlayground) Android XR sdk playground, trying out AR camera, 3d Model viewer, apps and more.
-- [Android Template](https://github.com/michaelbel/android-template) A GitHub template for creating modern Android apps with support all targets
+- [Android Template](https://github.com/michaelbel/android-template) A GitHub template for creating modern Android apps with support all targets.
+- [AndroidXRF1Tracks](https://github.com/kaaneneskpc/AndroidXRF1Tracks) A modern Android application showcasing Formula 1 tracks in both 2D and Spatial (XR) modes.
