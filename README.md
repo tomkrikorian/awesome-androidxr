@@ -21,3 +21,5 @@
 # Jetpack XR SDK
 ## Samples
 - [XR Samples](https://github.com/android/xr-samples) Official Samples for Android XR 
+## Projects
+- [XrPlayground](https://github.com/Kashif-E/XrPlayground) Android XR sdk playground, trying out AR camera, 3d Model viewer, apps and more.
