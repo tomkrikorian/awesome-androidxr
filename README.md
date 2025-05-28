@@ -6,6 +6,7 @@
 ## Developer
 - [Introducing Android XR SDK Developer Preview](https://android-developers.googleblog.com/2024/12/introducing-android-xr-sdk-developer-preview.html)
 - [Qualcomm and Google collaborate to launch new Android XR platform](https://www.qualcomm.com/developer/blog/2024/12/qualcomm-google-collaborate-to-launch-android-xr-platform)
+- [Updates to the Android XR SDK: Introducing Developer Preview 2](https://android-developers.googleblog.com/2025/05/updates-to-android-xr-sdk-developer-preview.html)
 # Documentation
 - [Android XR](https://developer.android.com/develop/xr/)
 
