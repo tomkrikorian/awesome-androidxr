@@ -23,7 +23,8 @@
 ## Official Samples
 - [XR Samples](https://github.com/android/xr-samples) Official Samples for Android XR
 ## Codelabs
-- [Learn Android XR Fundamentals: Part 1 - Modes and Spatial Panels](https://developer.android.com/codelabs/xr-fundamentals-part-1) 
+- [Learn Android XR Fundamentals: Part 1 - Modes and Spatial Panels](https://developer.android.com/codelabs/xr-fundamentals-part-1)
+- [Learn Android XR Fundamentals:Part 2 - Orbiters and Spatial Environments](https://developer.android.com/codelabs/xr-fundamentals-part-2)
 ## Projects
 - [XrPlayground](https://github.com/Kashif-E/XrPlayground) Android XR sdk playground, trying out AR camera, 3d Model viewer, apps and more.
 - [Android Template](https://github.com/michaelbel/android-template) A GitHub template for creating modern Android apps with support all targets.
