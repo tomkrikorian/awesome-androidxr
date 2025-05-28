@@ -29,5 +29,7 @@
 - [XrPlayground](https://github.com/Kashif-E/XrPlayground) Android XR sdk playground, trying out AR camera, 3d Model viewer, apps and more.
 - [Android Template](https://github.com/michaelbel/android-template) A GitHub template for creating modern Android apps with support all targets.
 - [AndroidXRF1Tracks](https://github.com/kaaneneskpc/AndroidXRF1Tracks) A modern Android application showcasing Formula 1 tracks in both 2D and Spatial (XR) modes.
+- [AndroidXR-BookOfFoods-Sample](https://github.com/drumath2237/AndroidXR-BookOfFoods-Sample) An Android XR sample with Jetpack XR XDK
+
 ## Articles
-- [1Planet's Articles](https://1planet.co.jp/tech-blog/category/AndroidXR)
+- [1Planet's Articles](https://1planet.co.jp/tech-blog/category/AndroidXR) 
