@@ -22,6 +22,7 @@
 # Jetpack XR SDK
 ## Official Samples
 - [XR Samples](https://github.com/android/xr-samples) Official Samples for Android XR
+- [JetStream](https://github.com/android/adaptive-apps-samples/tree/main/AdaptiveJetStream) One official sample media streaming application designed to adapt to various form factors using a single binary including Android XR
 ## Codelabs
 - [Learn Android XR Fundamentals:Part 1 - Modes and Spatial Panels](https://developer.android.com/codelabs/xr-fundamentals-part-1)
 - [Learn Android XR Fundamentals:Part 2 - Orbiters and Spatial Environments](https://developer.android.com/codelabs/xr-fundamentals-part-2)
